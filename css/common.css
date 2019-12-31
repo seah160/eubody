@@ -153,15 +153,16 @@ section {
 #main_footer {
   width: 100%;
   text-align: center;
-  background:#ccc;
   padding-top: 40px;
   padding-bottom: 40px;
+  color: #999;
+  border-top:1px solid #ccc;
 }
 #main_footer .container > h1 {
   margin-bottom: 12px;
 }
 #main_footer .container > p {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.8em;
 }
 #main_footer .container > .copyright {
